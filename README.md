@@ -1,6 +1,6 @@
 # Thyroid Nodule Cytology Classification
 
-Graduate research project, Sharif University of Technology (2021). Supervisor: Dr. Hamid Reza Rabiee.
+Graduate research project, Sharif University of Technology (2021). 
 
 Fine-needle aspiration (FNA) cytology is the reference test for deciding whether a thyroid nodule is benign or malignant, and each slide takes a cytopathologist significant time to review. This project is a first prototype of a deep learning classifier for **benign vs malignant thyroid cytology images**.
 
